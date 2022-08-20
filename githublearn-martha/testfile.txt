@@ -1,1 +1,9 @@
 ini testing
+
+ketika git add ini belum masuk ke server
+jadi perlu di commit, ini pesan yg kita sampaikan
+misal commit isinya pengirim, tujuan
+
+nanti di git push - untuk dikirim
+
+-m pesan yg mau dikirim
